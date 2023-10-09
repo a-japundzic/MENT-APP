@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3mentstorage5562d863",
+  "bucketName": "ment-storage-5562d863",
+  "policyUUID": "7e4a80a9",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ment-dev-170510-authRole",
+      "UnauthRoleArn": "arn:aws:iam::635408553577:role/amplify-ment-dev-170510-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::635408553577:role/amplify-ment-dev-170510-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ment-dev-170510-deployment",
+      "UnauthRoleName": "amplify-ment-dev-170510-unauthRole",
+      "StackName": "amplify-ment-dev-170510",
+      "StackId": "arn:aws:cloudformation:us-east-1:635408553577:stack/amplify-ment-dev-170510/fa1c6120-b2fc-11ed-bbfc-1232682a975b",
+      "AmplifyAppId": "d310hm6013ft67"
+    },
+    "categories": {
+      "auth": {
+        "MENT": {}
+      },
+      "storage": {
+        "s3mentstorage5562d863": {}
+      },
+      "api": {
+        "MENTAPI": {}
+      }
+    }
+  }
+}

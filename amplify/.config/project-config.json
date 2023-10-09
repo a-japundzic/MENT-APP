@@ -1,0 +1,17 @@
+{
+  "projectName": "MENT",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react-native",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "/",
+      "BuildCommand": "npx expo build",
+      "StartCommand": "npx expo start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
